@@ -1,0 +1,8 @@
+Many browsers, including Chrome, Firefox, and Safari,
+have Dev Tools that help inspect a webpage and see what HTML elements it is composed of.
+
+HTML elements used include:
+<p>
+<div>
+<h1>
+<h2>
