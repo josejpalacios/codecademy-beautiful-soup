@@ -1,0 +1,8 @@
+Always check a website’s Terms and Conditions before scraping.
+Read the statement on the legal use of data.
+
+Do not spam the website with a ton of requests.
+
+
+If the layout of the website changes,
+you will have to change your scraping code to follow the new structure of the site.
